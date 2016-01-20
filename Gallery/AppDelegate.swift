@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Gallery
 //
-//  Created by Michał Talaga on 20.01.2016.
-//  Copyright © 2016 Michal Talaga. All rights reserved.
+//  Created by Michał Talaga on 07.12.2015.
+//  Copyright © 2015 Michal. All rights reserved.
 //
 
 import UIKit
